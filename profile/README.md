@@ -1,4 +1,4 @@
-# ![Logo](../logo.jpeg)
+# <img src="../logo.jpeg" alt="Logo" width="200"/>
 
 ## Willkommen zur Fitness-App-Organisation!
 
