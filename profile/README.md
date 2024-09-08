@@ -1,4 +1,4 @@
-# ![Logo](logo.jpeg)
+# ![Logo](../logo.jpeg)
 
 ## Willkommen zur Fitness-App-Organisation!
 
