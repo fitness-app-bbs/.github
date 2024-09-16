@@ -1,4 +1,4 @@
-# <img src="../logo.jpeg" alt="Logo" width="200"/>
+# <img src="../logo_purple_transp.jpeg" alt="Logo" width="200"/>
 
 ## Willkommen zur Fitness-App-Organisation!
 
