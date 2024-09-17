@@ -1,19 +1,19 @@
 # <img src="../logo_purple_transp.png" alt="Logo" width="200"/>
 
-## Willkommen zur Fitness-App-Organisation!
+## Welcome to the Fitness App Organization!
 
-Diese Organisation widmet sich der Entwicklung einer Fitness-App, die Benutzer dazu motiviert, einen gesunden Lebensstil zu pflegen. Unsere App bietet eine Vielzahl von Funktionen, um Fitnessziele zu erreichen, eine gesunde Ernährung zu fördern und den Wettbewerb unter Freunden anzuregen.
+This organization is dedicated to developing a fitness app that motivates users to maintain a healthy lifestyle. Our app offers a variety of features to help users achieve their fitness goals, promote healthy eating, and encourage friendly competition.
 
 ### Features
 
-1. **Startseite**  
-   Auf der Startseite finden Nutzer eine Übersicht ihrer täglichen Fitness- und Ernährungsstatistiken. Sie können auch schnelle Zugriffe auf Rezepte, Übungen und den Freundes-Leaderboard finden.
+1. **Home Page**  
+   The home page provides users with an overview of their daily fitness and nutrition statistics. They can also quickly access recipes, exercises, and the friends leaderboard.
 
-2. **Nutri-Tracker mit Rezepten**  
-   Unser Nutri-Tracker hilft den Nutzern, ihre tägliche Ernährung zu überwachen. Es werden nicht nur Kalorien gezählt, sondern auch Nährstoffe verfolgt. Außerdem bietet der Tracker eine Rezeptdatenbank mit gesunden Rezepten, die Nutzer nachkochen können.
+2. **Nutri-Tracker with Recipes**  
+   Our Nutri-Tracker helps users monitor their daily nutrition. It tracks not only calories but also nutrients. In addition, the tracker includes a recipe database with healthy dishes that users can try out.
 
-3. **Leaderboard mit Freunden**  
-   Nutzer können ihre Freunde zur App einladen und sich gegenseitig herausfordern. Das Leaderboard zeigt, wer die meisten Punkte durch gesunde Ernährung und erfolgreich absolvierte Workouts gesammelt hat.
+3. **Leaderboard with Friends**  
+   Users can invite their friends to the app and challenge each other. The leaderboard shows who has earned the most points through healthy eating and successful workouts.
 
-4. **Übungen**  
-   Die App enthält eine Vielzahl an Übungen, die individuell angepasst und nach Muskelgruppen oder Trainingsziel ausgewählt werden können. Benutzer können ihre eigenen Workouts planen oder vorgeschlagene Workouts basierend auf ihren Fitnesszielen ausprobieren.
+4. **Exercises**  
+   The app offers a variety of exercises that can be customized by muscle group or training goal. Users can plan their own workouts or try recommended workouts based on their fitness objectives.
